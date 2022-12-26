@@ -14,7 +14,7 @@ public class sendingTest {
 
     @FindBy(css = "a[class='tabBtn ic_air on']")
     public WebElement linkAirport;
-
+// asdasd
     public void search () {
         mainPage.searchButton.click();
 
